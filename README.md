@@ -1,4 +1,7 @@
 # CASTLE OF THE NAMELESS KING
+
+# FROZEN FOR GOOD
+
 Dreadful roguelite for CLI/TTY written in C++
 
 Explore the dungeons, crawl in the castle, fight enemies and loot
