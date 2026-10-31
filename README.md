@@ -1,6 +1,6 @@
-# CASTLE OF THE NAMELESS KING
-
 # FROZEN FOR GOOD
+
+# CASTLE OF THE NAMELESS KING
 
 Dreadful roguelite for CLI/TTY written in C++
 
